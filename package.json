@@ -1,0 +1,32 @@
+{
+  "name": "jsc-website",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@curi/react-dom": "^1.1.0",
+    "@curi/router": "^1.0.3",
+    "@hickory/browser": "^1.0.2",
+    "@types/jquery": "^3.3.11",
+    "@types/pdfjs-dist": "^0.1.2",
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "pdfjs-dist": "^2.0.489",
+    "popper.js": "^1.14.4",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-scripts-ts": "2.17.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/jest": "^23.3.2",
+    "@types/node": "^10.10.1",
+    "@types/react": "^16.4.14",
+    "@types/react-dom": "^16.0.7",
+    "typescript": "^3.0.3"
+  }
+}
